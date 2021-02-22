@@ -1,0 +1,19 @@
+Distancia Soma(Distancia d1, Distancia d2){
+	return d1+d2
+}
+
+Distancia d4 = 2
+Distancia d3 = 2
+Velocidade v = 3
+Tempo t = 4
+
+if(d3 == 2 && v == 3 && t == 4){
+	show "tudo bem\n"
+}
+
+while(3 > 2){
+	show "também certo"
+	while(Soma(d4,d3) < v){
+		show "falso"
+	}
+}

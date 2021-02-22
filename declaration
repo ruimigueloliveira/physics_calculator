@@ -1,0 +1,4 @@
+Distancia[m]: Double
+Tempo[s]: Double
+Massa[g]: Double
+Velocidade: ((Distancia/Tempo)^-2)^-3

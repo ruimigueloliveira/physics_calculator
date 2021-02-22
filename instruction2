@@ -1,0 +1,6 @@
+void mostrarGrandezas(Velocidade b){
+	show b
+}
+
+Velocidade b = 100*k
+mostrarGrandezas(b)

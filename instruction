@@ -1,0 +1,29 @@
+void print(){
+	show "Ola"
+}
+
+Distancia d = 2+3+4
+show "Mostrar valor de d"
+show d
+Tempo t1 = 3
+Tempo t2 = 3+t1
+Tempo t3 = d*t1
+show "Mostrar valor de t2"
+show t2
+Massa carro = 20
+show "Teste de um se"
+if(carro < t1 && carro == carro){
+	show "Entrou no se"
+	carro = 100
+}
+else if(carro == carro){
+	show "Entrou num dos els"
+}
+else{ show "entrou no ultimo els"}
+show "verificar se valor do carro alterou"
+show carro
+while(carro != carro){
+show "Ola"
+}
+show "Testar Funções"
+print()
